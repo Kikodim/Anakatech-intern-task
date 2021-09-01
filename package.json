@@ -1,0 +1,13 @@
+{
+  "name": "forex-trading-app",
+  "version": "0.0.1",
+  "description": "Shows the latest forex rates as asked.",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^13.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
